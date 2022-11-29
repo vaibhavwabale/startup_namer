@@ -1,8 +1,10 @@
 # startup_namer
 
-A new Flutter project.
+Flutter Basic App using English Words Dependencies
 
-## Getting Started
+## Demo Video
+
+![image](https://docs.flutter.dev/assets/images/docs/get-started/startup-namer.gif)
 
 This project is a starting point for a Flutter application.
 
